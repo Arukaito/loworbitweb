@@ -31,7 +31,6 @@ paste this in inspector to connect to wallet:
 window.web3gl.connect()
 */
 
-window.web3gl.connect()
 
 async function connect() {
   // uncomment to enable torus and walletconnect
